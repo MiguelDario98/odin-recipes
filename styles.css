@@ -1,0 +1,15 @@
+h1 {
+    background-color: lightskyblue;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+img {
+    height: autopx;
+    width: 700px;
+}
